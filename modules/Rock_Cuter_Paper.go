@@ -16,6 +16,7 @@ var (
 func main() {
     // Roor form
     for i := 0; ; i++ {
+        fmt.Pribtln("[0] or [exit] exit")
         fmt.Println("[1] Rock")
         fmt.Println("[2] Cuter")
         fmt.Println("[3] Paper")
