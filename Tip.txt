@@ -1,0 +1,6 @@
+1- Make check installer file for install tool
+2- Creat modules file => calculator, time tool and . . .
+3- Test and debug
+4- Make images for GitHub
+5- Set Repo
+6- Development :)
